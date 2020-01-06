@@ -1,0 +1,38 @@
+TC 1: Input file with no entry - TC1.txt.
+
+
+TC2a: Input file with invalid path entry - TC2a.txt.
+
+
+TC2b: Input file with invalid file entry - TC2b.txt.
+
+
+TC3: Input file with valid entries - TC3.txt.
+
+
+TC4: Relative files entry with no data - TC4.txt.
+
+
+TC5: Relative files entry with data - TC5.txt.
+
+
+TC6a: User choose yes to see both option and insert 
+
+
+TC6b: User choose Yes to see both options but do nothing 
+
+
+TC7: User choose "No" to skip second option
+
+
+TC8: User choose nothing, if timeout happens after 30 sec
+
+
+TC9: Check if program runs fast enough for 1000's lines in the input file
+
+
+TC10: Check if the standalone return any error or exceptions not handled
+
+
+
+
